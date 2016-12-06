@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
   
-  New file(s) are created to store data about files in that repository.
+  New file(s) are created to store data about files in that repository. A hidden folder named .git is added which contains the required files for version history.
   You need to initialise  a repository to enable git to formally start tracking your files.
 
 How is the staging area different from the working directory and the repository?

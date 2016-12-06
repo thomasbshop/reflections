@@ -25,7 +25,7 @@ docs does?
 
     Cons
     You might loose your changes due to malfunctions if you didnt save your work on time.
-    It is inconvinient.
+    It is inconvinient. You have to do this every time.
 
 
 Why do you think some version control systems, like Git, allow saving multiple
