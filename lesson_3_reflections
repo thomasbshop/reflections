@@ -9,22 +9,35 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    I may not have finished adding changes.
+    Some changes may be unwanted.
+    I would want to confirm first.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks are copies of a git repository created and stored online via GitHub whereas clones are copies of a repository created locally on your machine. Branches comparably are different versions of a project/files created in a repository either locally or in the cloud.
+
+    You fork a repository online from a from a GitHub account into your account whereas when cloning, you clone files from an online account into your local machine or from a different location in your machine. Branching can be used when I want to edit my project and make different versions without interfering with with the original content.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    The benefit is that you can update or merge the changes locally without having to go online.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    We could colaborate by using the mordern conventional means of communication,for example: emails,text messages, phone calls among others.
+    This would be favourable when you want instant feedback. 
+    privacy is improved.
+
+    The hard part is that you would require a lot of resources for communication e.g. data plans, talk time charges
+    Also, you would require consultations since files are remotely placed.This consumes time.
+    It would be hard if it involves many people.
+    
+
+
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
